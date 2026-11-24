@@ -1,1 +1,32 @@
-n-Body/output.txt
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Binários compilados
+*.exe
+*.o
+cpp/rk4_nbody
+cpp/euler_nbody
+
+# Saídas geradas pelos simuladores C++
+output.txt
+
+# LaTeX (arquivos auxiliares)
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Trajetória gerada por python/RK44.py (~7 MB, recriada em segundos)
+python/dados/dados.txt

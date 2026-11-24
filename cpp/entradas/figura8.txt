@@ -1,0 +1,6 @@
+# Coreografia em 'figura 8' de tres corpos de massas iguais (Chenciner & Montgomery, 2000)
+# Escala: L = 1e11 m, M = 1e30 kg -> periodo = 283.40 dias. Simula 2 periodos.
+3 8.162048e+03 6000 10
+9.7000436000e+10 -2.4308753000e+10 0  1.2044216785e+04 1.1170024498e+04 0  1.0e+30
+-9.7000436000e+10 2.4308753000e+10 0  1.2044216785e+04 1.1170024498e+04 0  1.0e+30
+0 0 0  -2.4088433569e+04 -2.2340048996e+04 0  1.0e+30
